@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akshay-rajputh
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning React
+- WebDev @ Global Bizz Tech Solutions  
 - 📫 How to reach me notifyme.akshay@gmail.com
 
 <!---
