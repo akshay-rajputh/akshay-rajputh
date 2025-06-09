@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshay-rajputh
-- WebDev @ Global Bizz Tech Solutions  
+- CEO @ Global Bizz Tech Solutions  
 - 📫 How to reach me notifyme.akshay@gmail.com
 
 <!---
